@@ -7,7 +7,7 @@ package com.ScalarOnlineTestAlgorithms;
  * @author Chethan
  *
  */
-public class ChangeCharacter {
+public class ChangeCharacters {
 
 	/**
 	 * @param args
